@@ -1,0 +1,17 @@
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\bin\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.deps.json
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\bin\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\bin\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.pdb
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\bin\Debug\net9.0\CleanArchitectureRetoUno.Application.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\bin\Debug\net9.0\CleanArchitectureRetoUno.Domain.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\bin\Debug\net9.0\CleanArchitectureRetoUno.Application.pdb
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\bin\Debug\net9.0\CleanArchitectureRetoUno.Domain.pdb
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.csproj.AssemblyReference.cache
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.AssemblyInfoInputs.cache
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.AssemblyInfo.cs
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArc.88B99271.Up2Date
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\refint\CleanArchitectureRetoUno.Infrastructure.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\CleanArchitectureRetoUno.Infrastructure.pdb
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net9.0\ref\CleanArchitectureRetoUno.Infrastructure.dll

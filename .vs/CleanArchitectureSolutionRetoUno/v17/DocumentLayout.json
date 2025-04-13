@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E76984B5-2862-4EE8-A091-2A058962EB21}|CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj|c:\\mario\\nuevacarpeta\\litethinking\\reto1\\cleanarchitectureretouno.api\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76984B5-2862-4EE8-A091-2A058962EB21}|CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj|solutionrelative:cleanarchitectureretouno.api\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76984B5-2862-4EE8-A091-2A058962EB21}|CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj|c:\\mario\\nuevacarpeta\\litethinking\\reto1\\cleanarchitectureretouno.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76984B5-2862-4EE8-A091-2A058962EB21}|CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj|solutionrelative:cleanarchitectureretouno.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76984B5-2862-4EE8-A091-2A058962EB21}|CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj|c:\\mario\\nuevacarpeta\\litethinking\\reto1\\cleanarchitectureretouno.api\\cleanarchitectureretouno.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E76984B5-2862-4EE8-A091-2A058962EB21}|CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj|solutionrelative:cleanarchitectureretouno.api\\cleanarchitectureretouno.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\CleanArchitectureRetoUno.API\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureRetoUno.API\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\CleanArchitectureRetoUno.API\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "CleanArchitectureRetoUno.API\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:13:09.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\CleanArchitectureRetoUno.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureRetoUno.API\\Program.cs",
+              "ToolTip": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\CleanArchitectureRetoUno.API\\Program.cs",
+              "RelativeToolTip": "CleanArchitectureRetoUno.API\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:08:22.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CleanArchitectureRetoUno.API.csproj",
+              "DocumentMoniker": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj",
+              "ToolTip": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj",
+              "RelativeToolTip": "CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T14:04:01.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
