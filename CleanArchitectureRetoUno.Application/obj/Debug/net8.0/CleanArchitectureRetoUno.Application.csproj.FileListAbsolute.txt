@@ -8,9 +8,9 @@ C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\ob
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.AssemblyInfoInputs.cache
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.AssemblyInfo.cs
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.csproj.CoreCompileInputs.cache
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.sourcelink.json
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArc.523FB415.Up2Date
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.dll
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\refint\CleanArchitectureRetoUno.Application.dll
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.pdb
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\ref\CleanArchitectureRetoUno.Application.dll
-C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.sourcelink.json

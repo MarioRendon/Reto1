@@ -1,12 +1,13 @@
 
 using CleanArchitectureRetoUno.Application.Interfaces;
-using CleanArchitectureRetoUno.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CleanArchitecture.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize] // Protege todo el controlador
     public class CartsController : ControllerBase
     {
         private readonly ICartService _cartService; 
