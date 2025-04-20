@@ -37,6 +37,7 @@ C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\obj\Debug\
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\obj\Debug\net8.0\CleanArchitectureRetoUno.API.pdb
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\obj\Debug\net8.0\CleanArchitectureRetoUno.API.genruntimeconfig.cache
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\obj\Debug\net8.0\ref\CleanArchitectureRetoUno.API.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\obj\Debug\net8.0\CleanArchitectureRetoUno.API.sourcelink.json
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\bin\Debug\net8.0\CleanArchitectureRetoUno.API.staticwebassets.endpoints.json
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.API\obj\Debug\net8.0\staticwebassets\msbuild.CleanArchitectureRetoUno.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

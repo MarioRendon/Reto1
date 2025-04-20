@@ -13,3 +13,4 @@ C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\ob
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\refint\CleanArchitectureRetoUno.Application.dll
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.pdb
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\ref\CleanArchitectureRetoUno.Application.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Application\obj\Debug\net8.0\CleanArchitectureRetoUno.Application.sourcelink.json

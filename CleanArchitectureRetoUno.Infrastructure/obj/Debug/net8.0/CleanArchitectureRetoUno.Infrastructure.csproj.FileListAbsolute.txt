@@ -15,3 +15,4 @@ C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net8.0\refint\CleanArchitectureRetoUno.Infrastructure.dll
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net8.0\CleanArchitectureRetoUno.Infrastructure.pdb
 C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net8.0\ref\CleanArchitectureRetoUno.Infrastructure.dll
+C:\Mario\Nuevacarpeta\litethinking\Reto1\CleanArchitectureRetoUno.Infrastructure\obj\Debug\net8.0\CleanArchitectureRetoUno.Infrastructure.sourcelink.json

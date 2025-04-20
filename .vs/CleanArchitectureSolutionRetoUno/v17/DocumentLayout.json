@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "CleanArchitectureRetoUno.API\\Controllers\\CartsController.cs",
               "ToolTip": "C:\\Mario\\Nuevacarpeta\\litethinking\\Reto1\\CleanArchitectureRetoUno.API\\Controllers\\CartsController.cs",
               "RelativeToolTip": "CleanArchitectureRetoUno.API\\Controllers\\CartsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T14:13:09.592Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "CleanArchitectureRetoUno.API\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAhwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T14:08:22.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T14:08:22.246Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "CleanArchitectureRetoUno.API\\CleanArchitectureRetoUno.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-13T14:04:01.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T14:04:01.677Z"
             }
           ]
         }
